@@ -2,7 +2,7 @@
 
 A high-performance deep learning solution for e-commerce product matching using Siamese Neural Networks with pre-computed SBERT embeddings.
 
-![Python](\download.png)
+![Python](download.png)
 
 ## 🎯 Overview
 
